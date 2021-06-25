@@ -6,3 +6,14 @@ cmake-build-RelWithDebInfo/
 .idea/
 .fixes-internal/
 scripts/__pycache__/
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+googletest-build/
+googletest-download/
+googletest-src/
+lib/
+tests
+
